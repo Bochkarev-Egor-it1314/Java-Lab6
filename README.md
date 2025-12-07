@@ -377,7 +377,7 @@ public class DefaultProcessor {
 
 **<ins>Вывод на экран:</ins>**
 
-~Демонстрация работы аннотации @Default~
+~ Демонстрация работы аннотации @Default ~
 
 Тип по умолчанию для класса DefaultClass: String
 
