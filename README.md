@@ -12,61 +12,61 @@ src/
 
 └── ru.Bochkarev/
 
-|   ├── Annotations/
+│   ├── Annotations/
 
-|   │   ├── @Cache.java
+│   │   ├── @Cache.java
 
-|   │   ├── @Default.java
+│   │   ├── @Default.java
 
-|   │   ├── @Invoke.java
+│   │   ├── @Invoke.java
 
-|   │   ├── @ToString.java
+│   │   ├── @ToString.java
 
-|   │   ├── @Two.java
+│   │   ├── @Two.java
 
-|   │   └── @Validate.java
+│   │   └── @Validate.java
 
-|   ├── Classes/
+│   ├── Classes/
 
-|   │   ├── CacheClass.java
+│   │   ├── CacheClass.java
 
-|   │   ├── DefaultClass.java
+│   │   ├── DefaultClass.java
 
-|   │   ├── InvalidTwoClass.java
+│   │   ├── InvalidTwoClass.java
 
-|   │   ├── InvokeClass.java
+│   │   ├── InvokeClass.java
 
-|   │   ├── ToStringClass.java
+│   │   ├── ToStringClass.java
 
-|   │   ├── TwoClass.java
+│   │   ├── TwoClass.java
 
-|   │   └── ValidateClass.java
+│   │   └── ValidateClass.java
 
-|   ├── Main/
+│   ├── Main/
 
-|   │   ├── Check.java
+│   │   ├── Check.java
 
-|   │   └── Main.java
+│   │   └── Main.java
 
-|   ├── Processors/
+│   ├── Processors/
 
-|   │   ├── CacheProcessor.java
+│   │   ├── CacheProcessor.java
 
-|   │   ├── DefaultProcessor.java
+│   │   ├── DefaultProcessor.java
 
-|   │   ├── InvokeProcessor.java
+│   │   ├── InvokeProcessor.java
 
-|   │   ├── ToStringProcessor.java
+│   │   ├── ToStringProcessor.java
 
-|   │   ├── TwoProcessor.java
+│   │   ├── TwoProcessor.java
 
-|   │   └── ValidateProcessor.java
+│   │   └── ValidateProcessor.java
 
-|   └── Tests/
+│   └── Tests/
 
-|       ├── InvokeTest.java
+│       ├── InvokeTest.java
 
-|       └── TwoTest.java
+│       └── TwoTest.java
 
 └── pom.xml
 
