@@ -9,35 +9,65 @@
 ## Структура проекта
 
 src/
+
 └── ru.Bochkarev/
+
 |   ├── Annotations/
+
 |   │   ├── @Cache.java
+
 |   │   ├── @Default.java
+
 |   │   ├── @Invoke.java
+
 |   │   ├── @ToString.java
+
 |   │   ├── @Two.java
+
 |   │   └── @Validate.java
+
 |   ├── Classes/
+
 |   │   ├── CacheClass.java
+
 |   │   ├── DefaultClass.java
+
 |   │   ├── InvalidTwoClass.java
+
 |   │   ├── InvokeClass.java
+
 |   │   ├── ToStringClass.java
+
 |   │   ├── TwoClass.java
+
 |   │   └── ValidateClass.java
+
 |   ├── Main/
+
 |   │   ├── Check.java
+
 |   │   └── Main.java
+
 |   ├── Processors/
+
 |   │   ├── CacheProcessor.java
+
 |   │   ├── DefaultProcessor.java
+
 |   │   ├── InvokeProcessor.java
+
 |   │   ├── ToStringProcessor.java
+
 |   │   ├── TwoProcessor.java
+
 |   │   └── ValidateProcessor.java
+
 |   └── Tests/
+
 |       ├── InvokeTest.java
+
 |       └── TwoTest.java
+
 └── pom.xml
 
 ## Детальный анализ методов
